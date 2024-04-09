@@ -33,16 +33,16 @@ Vertical Axis Wind Turbines (VAWTs) offer several advantages for small-scale urb
 ## Design Screenshots
 
 ### Dashboard
-![Dashboard](/design/Dashboard.png)
+![Dashboard](/Design/Dashboard)
 
 ### First Dashboard
-![First Dashboard](/design/1Dashboard.png)
+![First Dashboard](/Design/1Dashboard.png)
 
 ### Second Dashboard
-![Second Dashboard](/design/2Dashboard.png)
+![Second Dashboard](/Design/2Dashboard.png)
 
 ### Login
-![Login](/design/Login.png)
+![Login](/Design/Login.png)
 
 
 3. **Interactive Elements**: The website incorporates interactive elements such as images, videos, and infographics to engage visitors and effectively communicate the advantages of VAWTs in urban environments.
