@@ -30,8 +30,23 @@ Vertical Axis Wind Turbines (VAWTs) offer several advantages for small-scale urb
 
 1. **Website Design**: The website design showcases the concept of using VAWTs for small-scale urban energy solutions. It highlights the benefits, use cases, and implementation scenarios through visually appealing graphics and informative content.
 
-2. **Interactive Elements**: The website incorporates interactive elements such as images, videos, and infographics to engage visitors and effectively communicate the advantages of VAWTs in urban environments.
+## Design Screenshots
 
-3. **Responsive Design**: The website is designed to be responsive, ensuring optimal viewing and functionality across various devices and screen sizes.
+### Dashboard
+![Dashboard](/design/Dashboard.png)
 
-4. **User-Friendly Interface**: The website features a user-friendly interface with intuitive navigation, allowing visitors to easily explore different sections and learn about the benefits and applications of VAWTs.
+### First Dashboard
+![First Dashboard](/design/1Dashboard.png)
+
+### Second Dashboard
+![Second Dashboard](/design/2Dashboard.png)
+
+### Login
+![Login](/design/Login.png)
+
+
+3. **Interactive Elements**: The website incorporates interactive elements such as images, videos, and infographics to engage visitors and effectively communicate the advantages of VAWTs in urban environments.
+
+4. **Responsive Design**: The website is designed to be responsive, ensuring optimal viewing and functionality across various devices and screen sizes.
+
+5. **User-Friendly Interface**: The website features a user-friendly interface with intuitive navigation, allowing visitors to easily explore different sections and learn about the benefits and applications of VAWTs.
